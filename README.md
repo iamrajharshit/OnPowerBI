@@ -21,7 +21,7 @@ The dataset used for this dashboard includes transactional data, product details
 - Charts and Visualizations: Created a variety of charts including bar charts, line graphs, and pie charts to represent data visually, making it easier to identify trends and patterns.
 - Interactive Elements: Included slicers and filters for dynamic data exploration, allowing users to customize their views and focus on specific areas of interest.
 
-# Insights
+## Insights
 - Top-Performing Products: Identified the top 10 products contributing to the majority of sales, aiding in inventory and promotional planning.
 - Customer Segmentation: Discovered that a specific customer segment accounts for the highest revenue, indicating a potential target group for marketing efforts.
 - Sales Trends: Observed consistent sales growth during festive seasons, providing insights for future campaign planning.
